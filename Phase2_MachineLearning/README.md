@@ -15,8 +15,8 @@ This phase applies machine learning models to predict healthcare performance out
   - Feature Importance
 
 ## 📊 Outputs
-- ML notebook: `Phase2_ML.ipynb`
-- Trained models (`models/random_forest.pkl`)
+- ML notebook:'Health_Perfromance_Data_Phase2.ipynb`
+- Trained models 
 - Visuals: confusion matrix heatmap, metrics comparison chart, feature importance bar chart
 
 ## ⚙️ Tools
