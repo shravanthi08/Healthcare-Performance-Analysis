@@ -1,1 +1,17 @@
+## 📂 Dataset: Health_Performance_Raw_Dataset.csv
+
+### 📌 Overview
+This file contains the raw healthcare performance data used in the project.  
+It serves as the foundation for Phase 2 (Machine Learning).
+
+### 🗒️ Contents
+- Patient demographics (age, gender, insurance type, etc.)
+- Treatment and hospital performance metrics
+- Readmission and outcome indicators
+- Other healthcare attributes for segmentation and prediction
+
+### ⚠️ Notes
+- Data is unprocessed and may contain missing values, duplicates, or inconsistencies.
+- Cleaning and preprocessing steps are documented in the Phase 1 notebook.
+- This dataset should be used only for educational and analytical purposes.
 
