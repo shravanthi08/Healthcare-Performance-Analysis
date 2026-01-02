@@ -1,0 +1,13 @@
+Age_Group,Outcome,Count
+Senior,Recovered,944
+Adult,Complication,1095
+Adult,Improved,1111
+Child,Improved,445
+Child,Recovered,443
+Adult,Recovered,1064
+Child,Complication,442
+Senior,Death,899
+Senior,Improved,977
+Senior,Complication,972
+Adult,Death,1081
+Child,Death,476
