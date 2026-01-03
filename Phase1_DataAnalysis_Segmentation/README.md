@@ -5,9 +5,9 @@ This phase focuses on exploring healthcare performance data, cleaning it, and se
 
 ## 🔎 Steps
 - Data preprocessing (handling missing values, encoding, dropping irrelevant columns)
-- Exploratory Data Analysis (EDA) with Pandas, Matplotlib, Seaborn
+- Exploratory Data Analysis (EDA) with Pandas And SQL.
 - Patient segmentation by attributes (age, treatment type, insurance coverage, etc.)
-- Visualizations: histograms, bar charts, correlation heatmaps
+- Visualizations: KPI's, Line Chart, Map chart, Stacked Barchart and Horizontal Bar Charts.
 
 ## 📊 Outputs
 - Cleaned dataset 
@@ -15,7 +15,8 @@ This phase focuses on exploring healthcare performance data, cleaning it, and se
 - Notebook:
 
 ## ⚙️ Tools
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Python (Pandas, NumPy)
+- MYSQL Workbench
 - Jupyter Notebook
 - Tableau (Visualization)
 
