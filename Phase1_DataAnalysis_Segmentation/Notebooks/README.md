@@ -5,10 +5,10 @@ This notebook focuses on preparing and analyzing healthcare performance data usi
 It transforms the raw dataset into a cleaned, structured format and generates insights through exploratory analysis and segmentation.
 
 ## 🔎 Key Steps
-- **Data Cleaning**: Handled missing values, duplicates, and irrelevant columns using Pandas.
-- **Preprocessing**: Converted data types and standardized features for consistency.
-- **Exploratory Data Analysis (EDA)**: Examined distributions, correlations, and trends with Matplotlib & Seaborn.
-- **Segmentation**: Grouped patients by demographics, treatment type, and insurance coverage.
+- **Data Cleaning (Python/Pandas)**: Handled missing values, duplicates, and irrelevant columns to prepare a reliable dataset.
+- **Preprocessing (Python/Pandas)**: Converted data types and standardized features for consistency.
+- **SQL Schema Design**: Structured the cleaned dataset into a relational schema using MySQL for organized storage and efficient querying.
+- **Segmentation (SQL + Pandas)**: Grouped patients by demographics, treatment type, and insurance coverage for deeper insights.
 
 
 ## 📊 Outputs
@@ -17,6 +17,7 @@ It transforms the raw dataset into a cleaned, structured format and generates in
 
 
 ## ⚙️ Tools
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Python (Pandas)
 - Jupyter Notebook
+- MYSQL Workbench
 
