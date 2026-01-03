@@ -18,8 +18,8 @@ Each CSV file represents the result of a specific query, making it easier to tra
 
 ## 📊 Usage
 - Serves as intermediate datasets for Python notebooks in Phase 1.
-- Provides structured inputs for cleaning, EDA, and segmentation.
-- Ensures reproducibility by keeping raw query outputs separate from processed data.
+- Provides structured inputs for cleaning,segmentation and further analysis.
+- Ensures reproducibility by keeping query outputs separate from processed data.
 
 ## ⚙️ Tools
 - SQL (query execution)
